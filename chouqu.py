@@ -6,7 +6,7 @@ import os
 
 # 初始化 DeepSeek 客户端
 client = OpenAI(
-    api_key="sk-e343c12b259a4a1bb33f5c06cc524c22",
+    api_key="",
     base_url="https://api.deepseek.com"
 )
 
